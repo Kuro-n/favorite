@@ -4,7 +4,7 @@ public class SukiFood {
 		System.out.println("私の好きな食べ物は寿司です。");
 		System.out.println("なぜなら美味しいからです。");	
 		
-		System.out.println("バナナのおすすめの食べ方はありますか？");
+		System.out.println("バナナのおすすめの食べ方を教えてください。");
 	}
 
 }
