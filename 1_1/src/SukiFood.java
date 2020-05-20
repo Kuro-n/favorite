@@ -5,6 +5,8 @@ public class SukiFood {
 		System.out.println("なぜなら美味しいからです。");	
 		
 		System.out.println("バナナのおすすめの食べ方を教えてください。");
+		//松井　追記
+		System.out.println("ヨーグルトに入れると美味しいですよ！");
 	}
 
 }
